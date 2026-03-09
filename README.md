@@ -21,7 +21,7 @@ académico.
 
 ## Autor
 
-- **Nombre:** Tu nombre completo  
-- **Curso:** Nombre del curso  
-- **Institución:** Nombre de tu institución  
+- **Nombre:** Nicolas Alejandro Martinez Gomez
+- **Curso:** Portafolio Evidencias Github
+- **Institución:** Universidad Pedagogica Nacional
 - **Año:** 2025
